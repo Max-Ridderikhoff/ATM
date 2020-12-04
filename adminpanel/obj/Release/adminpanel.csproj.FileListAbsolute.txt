@@ -1,0 +1,6 @@
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.csprojAssemblyReference.cache
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.adminDashboard.resources
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.Properties.Resources.resources
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.Toevoegen.resources
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.csproj.GenerateResource.cache
+C:\Users\Pinda\source\repos\GeldAutomaat\adminpanel\obj\Release\adminpanel.csproj.CoreCompileInputs.cache
